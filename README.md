@@ -1,2 +1,2 @@
 # Mira-Whales-Resort
-It is a hotel web site.
+It is a website for a hotel.
